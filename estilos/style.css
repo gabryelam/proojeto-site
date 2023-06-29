@@ -2,11 +2,11 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
-
 body{
     background-color: rgb(169, 109, 224);
 
 }
+<<<<<<< Updated upstream
 
 main {
     background-color: white;
@@ -39,4 +39,12 @@ a{
 a:hover{
     text-decoration: underline;
     color: rgb(26, 26, 255);
+=======
+main{
+    background-color:white
+whidth: 500px;
+margin: auto;
+padding: 10px;
+box-shadow:3px 3px 5px black;
+>>>>>>> Stashed changes
 }
